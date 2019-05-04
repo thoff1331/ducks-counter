@@ -1,0 +1,28 @@
+body {
+  background: -o-repeating-linear-gradient(black);
+  background-color: blueviolet;
+}
+
+.counter {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  align-items: center;
+}
+.btn {
+  width: 30vw;
+  display: flex;
+  justify-content: space-between;
+  font-size: 40px;
+  height: 45px;
+  align-items: center;
+}
+.zero {
+  display: flex;
+  border: 1px solid black;
+  justify-content: center;
+  font-size: 45px;
+}
+.title {
+  text-align: center;
+}
